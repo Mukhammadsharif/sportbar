@@ -89,14 +89,14 @@ const styles = StyleSheet.create({
     height: 150,
     objectFit: 'contain',
     position: 'absolute',
-    left: '-45%',
+    left: '-50%',
     top: 0,
   },
   ballRight: {
     height: 150,
     objectFit: 'contain',
     position: 'absolute',
-    right: '-45%',
+    right: '-50%',
     bottom: 0,
   },
 });
